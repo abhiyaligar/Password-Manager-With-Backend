@@ -16,8 +16,6 @@ Navigate to `http://localhost:3000` to access the application.
 ## Features
 
 * **Save, edit, and delete passwords:** Users can add new passwords, update existing ones, and delete them as needed.
-* **Generate strong passwords:** The application can generate strong passwords for users.
-* **Secure password storage:** Passwords are stored in the database using encryption.
 * **User-friendly interface:** The interface is designed to be easy to use and intuitive.
 
 ## Technologies Used
@@ -33,11 +31,6 @@ Navigate to `http://localhost:3000` to access the application.
 ## Contributing
 
 Contributions are welcome! Please submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE   
- file for more details.
 
 ## Acknowledgements   
 
